@@ -92,7 +92,7 @@ p {
   margin-bottom: 1rem;
 }
 
-abbr[title],
+/*abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
   -webkit-text-decoration: underline dotted;
@@ -101,43 +101,31 @@ abbr[data-original-title] {
   border-bottom: 0;
   -webkit-text-decoration-skip-ink: none;
           text-decoration-skip-ink: none;
-}
-
-address {
+}*/
+/*address {
   margin-bottom: 1rem;
   font-style: normal;
   line-height: inherit;
-}
-
-ol,
-ul,
-dl {
+}*/
+/*ol,ul,dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-
-ol ol,
-ul ul,
-ol ul,
-ul ol {
+ol ol, ul ul, ol ul, ul ol {
   margin-bottom: 0;
-}
-
-dt {
+}*/
+/*dt {
   font-weight: 700;
 }
-
 dd {
   margin-bottom: 0.5rem;
   margin-left: 0;
-}
-
-blockquote {
+}*/
+/*blockquote {
   margin: 0 0 1rem;
-}
+}*/
 
-b,
-strong {
+b, strong {
   font-weight: bolder;
 }
 
