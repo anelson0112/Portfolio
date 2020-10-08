@@ -4413,7 +4413,7 @@ input[type=button].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-image: radial-gradient(#ffffff,#D3D3D3, #9E9E9E);
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -9646,8 +9646,12 @@ body {
   width: auto;
   height: auto;
 }
+#projects{
+  background:linear-gradient(to bottom, #000000 0%,rgba(0, 0, 0, 0.8) 100%) rgba(0, 0, 0, 0.9) 75%, ;
+}
 .projects-section {
   padding: 10rem 0;
+  
 }
 .projects-section .featured-text {
   padding: 2rem;
