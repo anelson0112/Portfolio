@@ -9680,16 +9680,17 @@ body {
   
 
 .signup-section h2{
-  background: -webkit-linear-gradient(#7f6194,#9b5c9d );
+  background: -webkit-linear-gradient(#9b5c9d,#7f6194 );
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
-  font-size: 40px; 
+  font-size: 60px; 
   margin-bottom: 100px;
 }
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/about_me_codebw.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/about_me_codebw_blur.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -9744,7 +9745,6 @@ body {
 .contact-section .social a:active {
   color: #fff;
 }
-
 .footer {
   padding: 5rem 0;
 }
