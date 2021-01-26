@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio of my work",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node index.js",
+    "kickoff": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anelson0112/Portfolio.git"
+  },
+  "author": "Alice E Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anelson0112/Portfolio/issues"
+  },
+  "homepage": "https://github.com/anelson0112/Portfolio#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
